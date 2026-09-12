@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8b651e"/><stop offset=".5" stop-color="#f1d98a"/><stop offset="1" stop-color="#b88928"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15110a"/><stop offset="1" stop-color="#050505"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".55"/></filter>
+</defs>
+<rect width="900" height="700" fill="url(#bg)"/>
+<circle cx="700" cy="100" r="180" fill="#d8ad48" opacity=".05"/>
+
+<g filter="url(#s)">
+<path d="M280 270 Q280 220 330 220 H570 Q620 220 620 270 L665 565 H235 Z" fill="#111" stroke="url(#g)" stroke-width="8"/>
+<path d="M350 225 Q350 120 450 120 Q550 120 550 225" fill="none" stroke="url(#g)" stroke-width="18" stroke-linecap="round"/>
+<path d="M280 305 L450 430 L620 305" fill="none" stroke="#cda84f" stroke-width="5" opacity=".8"/>
+<text x="450" y="390" fill="url(#g)" font-family="Georgia" font-size="70" text-anchor="middle">TK</text>
+</g></svg>
