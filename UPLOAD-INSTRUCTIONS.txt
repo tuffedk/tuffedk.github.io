@@ -1,27 +1,18 @@
-TUFFEDK — PROFESSIONAL ACCESSORIES V1
+TUFFEDK — V2 PREMIUM
 
-YOU ARE ALREADY IN THE CORRECT REPOSITORY:
-tuffedk / tuffedk.github.io
-
-DO THIS:
-
-1. Extract this ZIP on your computer.
-2. In the empty GitHub repository, click:
-   "uploading an existing file"
-3. Select EVERYTHING inside the extracted folder.
-4. Drag all files into GitHub.
-5. Scroll down and click "Commit changes".
-6. Open Settings → Pages.
-7. Under Build and deployment select:
-   Source: Deploy from a branch
+1. Extract this ZIP.
+2. Open your GitHub repository:
+   tuffedk.github.io
+3. Upload/replace ALL existing website files with the files inside this folder.
+4. Commit changes to main.
+5. Settings → Pages.
+6. Confirm:
    Branch: main
    Folder: /(root)
-8. Click Save.
-9. Wait 1–3 minutes.
-10. Open:
-    https://tuffedk.github.io/
+7. Save if needed.
+8. Wait 1–3 minutes.
+9. Press Ctrl + F5 to refresh the live website.
 
 IMPORTANT:
-- Do NOT upload only the ZIP.
-- Upload the files INSIDE the ZIP.
-- All website assets are in the root folder to reduce broken-image problems.
+- Upload the files inside the ZIP, not the ZIP itself.
+- This version keeps all assets at the root level to avoid broken image paths.

@@ -1,9 +1,21 @@
-# TuffedK — Professional Accessories Website V1
+# TuffedK — Professional Accessories Website V2 Premium
 
-Elegant black-and-gold accessories website for TuffedK.
+A refined black-and-gold premium storefront for TuffedK.
+
+## What changed in V2
+- More editorial luxury homepage
+- Cleaner spacing and typography
+- Stronger premium hero layout
+- Less "template" feeling
+- More sophisticated category presentation
+- Larger product photography areas
+- Black Edit / Style Note editorial campaign section
+- Signature brand banner
+- Improved responsive behavior
+- Existing shop, filters, wishlist, bag and product pages retained
 
 ## Included
-- Premium homepage
+- Home
 - Shop
 - Collections
 - New Arrivals
@@ -13,21 +25,17 @@ Elegant black-and-gold accessories website for TuffedK.
 - Contact
 - Demo Checkout
 - 6 product pages
-- Search and category filters
-- Product sorting
 - Wishlist
 - Persistent shopping bag
-- Responsive mobile design
-- GitHub Pages support
-- Root-level assets to reduce broken path problems
+- Search / filters / sorting
+- Mobile responsive
+- GitHub Pages ready
 
 ## Important
-Current product names, prices and descriptions are sample website content.
+Product names, prices and descriptions are sample website content.
 Replace them with verified TuffedK inventory before commercial launch.
 
-Shipping, returns, materials, warranties, authenticity claims and support details should only be published when officially confirmed.
-
-The contact and checkout forms are demonstrations until connected to approved backend/payment services.
+The checkout and contact forms are demonstrations until connected to a real backend/payment provider.
 
 Official website:
 https://tuffedk.github.io/
